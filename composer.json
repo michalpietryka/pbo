@@ -1,0 +1,11 @@
+{
+    "name": "michalpietryka/pbo",
+    "description": "PBO parser",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michal Pietryka",
+            "email": "michalpietryka@outlook.com"
+        }
+    ]
+}
